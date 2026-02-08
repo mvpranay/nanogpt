@@ -11,3 +11,5 @@ input.txt
 env/
 venv/
 .venv/*
+baseline_benchmarks.png
+test.py
